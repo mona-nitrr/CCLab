@@ -1,0 +1,50 @@
+
+      /* CSS Styles */
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+      }
+
+      header {
+        background-color: #ff5c5c;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+
+      nav {
+        background-color: #f2f2f2;
+        text-align: center;
+        padding: 10px;
+      }
+
+      nav a {
+        display: inline-block;
+        margin: 0 10px;
+        color: #333;
+        text-decoration: none;
+        font-weight: bold;
+      }
+
+      nav a:hover {
+        color: #fff;
+        background-color: #333;
+        padding: 5px 10px;
+        border-radius: 5px;
+      }
+
+      section {
+        padding: 20px;
+        margin: 20px;
+        background-color: #fff;
+        border-radius: 5px;
+      }
+
+      footer {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+
+   
